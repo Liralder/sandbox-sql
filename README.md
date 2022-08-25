@@ -1,2 +1,11 @@
-# sandbox-sql
-Repositório onde contém códigos em SQL usados para certificações, estudos, manipulações, resoluções de desafios e testes.
+# Sejam Bem-vindo! 👋
+.
+.
+.
+.
+.
+.
+.
+### Database Experience
+
+O primeiro bootcamp da @Dio relacionado a parte de Data, você pode acessar todos os artefatos criados no treinamento na pasta /db-exp.
